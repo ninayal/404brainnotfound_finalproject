@@ -17,7 +17,7 @@ This data-driven web application is developed for the **Python Programming Studi
 
 ---
 
-## 👥 Team Members (Group 3)
+## 👥 Team Members (SGS03 - 404brainnotfound)
 <table align="center">
   <tr>
     <td align="center" width="200">
@@ -73,30 +73,3 @@ Follow these steps to set up the project on your local machine:
 ```bash
 git clone [https://github.com/](https://github.com/)[your-username]/404brainnotfound_finalproject.git
 cd 404brainnotfound_finalproject
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
