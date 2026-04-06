@@ -4,6 +4,8 @@
       <img src="https://github.com/ninayal.png" width="100" style="border-radius:50%;" alt="Nina Lam"/>
       <br />
       <b>Lam Thanh Yen Nhi</b>
+      <br/>
+      <p>s4203654</p>
       <br />
       <sub>Project Lead / DS</sub>
       <br />
