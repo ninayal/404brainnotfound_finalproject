@@ -1,4 +1,9 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
+#Nina: command bellow will make git ignore venv-flask file, prevnting it from being pushed to git
 venv/
 __pycache__/
 *.pyc
+
+
+#remove DS store
+.DS_Store
