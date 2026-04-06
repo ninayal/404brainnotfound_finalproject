@@ -21,17 +21,6 @@ This data-driven web application is developed for the **Python Programming Studi
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://github.com/ninayal.png" width="100" style="border-radius:50%;" alt="Nina Lam"/>
-      <br />
-      <b>Lam Thanh Yen Nhi</b>
-      <br/>
-      <p>s4203654</p>
-      <br />
-      <sub>Change content here - add task role</sub>
-      <br />
-      <a href="https://github.com/ninayal">🐰 Profile</a>
-    </td>
-    <td align="center" width="200">
       <img src="https://github.com/s4208144.png" width="100" style="border-radius:50%;" alt="Phuc Khang"/>
       <br />
       <b>Nguyen Dinh Phuc Khang</b>
@@ -41,6 +30,17 @@ This data-driven web application is developed for the **Python Programming Studi
       <sub>Change content here - add task role</sub>
       <br />
       <a href="https://github.com/s4208144">🪐 Profile</a>
+    </td>
+     <td align="center" width="200">
+      <img src="https://github.com/ninayal.png" width="100" style="border-radius:50%;" alt="Nina Lam"/>
+      <br />
+      <b>Lam Thanh Yen Nhi</b>
+      <br/>
+      <p>s4203654</p>
+      <br />
+      <sub>Change content here - add task role</sub>
+      <br />
+      <a href="https://github.com/ninayal">🐰 Profile</a>
     </td>
     <td align="center" width="200">
       <img src="https://github.com/s4124826.png" width="100" style="border-radius:50%;" alt="Canh Khoi"/>
