@@ -32,7 +32,7 @@ This data-driven web application is developed for the **Python Programming Studi
       <a href="https://github.com/ninayal">🐰 Profile</a>
     </td>
     <td align="center" width="200">
-      <img src="https://github.com/[username_khang].png" width="100" style="border-radius:50%;" alt="Phuc Khang"/>
+      <img src="https://github.com/s4208144.png" width="100" style="border-radius:50%;" alt="Phuc Khang"/>
       <br />
       <b>Nguyen Dinh Phuc Khang</b>
       <br />
@@ -40,17 +40,17 @@ This data-driven web application is developed for the **Python Programming Studi
       <br/>
       <sub>Change content here - add task role</sub>
       <br />
-      <a href="https://github.com/[username_khang]">🪐 Profile</a>
+      <a href="https://github.com/s4208144">🪐 Profile</a>
     </td>
     <td align="center" width="200">
-      <img src="https://github.com/[username_khoi].png" width="100" style="border-radius:50%;" alt="Canh Khoi"/>
+      <img src="https://github.com/s4124826.png" width="100" style="border-radius:50%;" alt="Canh Khoi"/>
       <br />
       <b>Ai Phuc Canh Khoi</b>
       <p>s4124826</p>
       <br />
       <sub>Change content here - add task role</sub>
       <br />
-      <a href="https://github.com/[username_khoi]">🛰️ Profile</a>
+      <a href="https://github.com/s4124826">🛰️ Profile</a>
     </td>
   </tr>
 </table>
