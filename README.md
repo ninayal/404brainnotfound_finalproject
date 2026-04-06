@@ -20,9 +20,9 @@ This data-driven web application is developed for the **Python Programming Studi
 ## 👥 Team Members (Group 3)
 | Name | Student ID | Primary Responsibilities |
 | :--- | :--- | :--- |
-| **Lam Thanh Yen Nhi** | s4203654 | **Level 1-A:** Landing Page & **Level 3-A:** Vaccination Improvement Analysis |
-| **Nguyen Dinh Phuc Khang** | s4208144 | **Level 1-B:** Mission Statement & **Level 3-B:** Infection Benchmarking |
-| **Ai Phuc Canh Khoi** | s4124826 | **Level 2-A:** Vaccination View & **Level 2-B:** Economic Status Analysis |
+| **Lam Thanh Yen Nhi** | s4203654 | bla bal bla |
+| **Nguyen Dinh Phuc Khang** | s4208144 | blablabla |
+| **Ai Phuc Canh Khoi** | s4124826 | blablabla |
 
 ---
 
