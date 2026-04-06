@@ -1,9 +1,54 @@
 <!DOCTYPE html>
+<html lang="vi">
 <head>
-    <meta charset = "UTF-8">
-    <title> hahahahah</title>
+    <meta charset="UTF-8">
+    <title>Infectious Disease Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='format_frontend/style.css') }}">
+    
 </head>
 <body>
-    <h1> This is page for vaccination data</h1>
+    <nav>
+        <a href="/">Trang chủ</a> | 
+        <a href="/mission">Sứ mệnh</a> | 
+        <a href="/vaccination">Tiêm chủng</a> | 
+        <a href="/above-average">Phân tích sâu</a>
+    </nav>
+    <hr>
+    
+    <main>
+        {% extends 'base.html' %}
+
+        {% block content %}
+            <h2>Phân tích tỷ lệ tiêm chủng</h2>
+            
+            <form class="filter-section" method="POST">
+                <div>
+                    <label>Chọn Khu vực:</label>
+                    <select name="region">
+                        {% for r in regions %}
+                            <option value="{{ r.RegionID }}">{{ r.region }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <button type="submit">Lọc dữ liệu</button>
+            </form>
+        
+            <table>
+                <thead>
+                    <tr>
+                        <th>Quốc gia</th>
+                        <th>Tỷ lệ che phủ (%)</th>
+                        <th>Năm</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    </tbody>
+            </table>
+        {% endblock %}
+    </main>
+
+    <footer>
+        <p>© 2026 - RMIT Studio Project Team [Tên nhóm bạn]</p>
+    </footer>
 </body>
 </html>
