@@ -24,8 +24,8 @@ This data-driven web application is developed for the **Python Programming Studi
 ## 🛠 Tech Stack
 * **Backend:** Python 3.x with Flask Framework.
 * **Database:** SQLite (Relational Database).
-* **Frontend:** HTML5 & CSS3 (Custom responsive design).
-* **Version Control:** Git & GitHub (Branching Strategy: `main` for production, `dev-[name]` for features).
+* **Frontend:** HTML5 & CSS3 .
+* **Version Control:** Git & GitHub 
 
 ---
 
