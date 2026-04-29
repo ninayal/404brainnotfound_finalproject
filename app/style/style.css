@@ -1,0 +1,1170 @@
+.landing-page {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 100%;
+    min-width: 1394px;
+    min-height: 6112px;
+    position: relative;
+}
+
+.landing-page .desktop {
+    display: flex;
+    flex-direction: column;
+    width: 1394px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.landing-page .desktop::-webkit-scrollbar {
+    width: 0;
+    display: none;
+}
+
+.landing-page .container {
+    position: relative;
+    width: 1461.49px;
+    height: 6111.96px;
+    margin-left: -33.74px;
+    margin-right: -33.74px;
+}
+
+.landing-page .footer {
+    display: flex;
+    width: calc(100% - 31px);
+    height: 228px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 64px;
+    position: absolute;
+    top: 0;
+    left: 1px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-color: #0000001a;
+    background:
+    url(https://c.animaapp.com/mokddl1nvT4YuQ/img/feature-cards-1.png) 50% 50% /
+    cover;
+}
+
+.landing-page .text {
+    display: flex;
+    width: 306px;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    position: relative;
+    margin-top: -7.47px;
+    margin-bottom: -7.47px;
+}
+
+.landing-page .tempimagewnbxcx {
+    position: relative;
+    width: 115px;
+    height: 115px;
+    background-blend-mode: darken;
+    object-fit: cover;
+}
+
+.landing-page .company {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+
+.landing-page .text-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: -0.64px;
+    line-height: 46.4px;
+    white-space: nowrap;
+}
+
+.landing-page .navigation {
+    position: relative;
+    width: 611px;
+    height: 51px;
+}
+
+.landing-page .link-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 45px;
+    height: 23px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.landing-page .link {
+    position: relative;
+    width: 45px;
+    height: 23px;
+}
+
+.landing-page .div-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 51px;
+    height: 23px;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    top: -8px;
+    left: 280px;
+}
+
+.landing-page .div {
+    width: 51px;
+    position: relative;
+    height: 23px;
+}
+
+.landing-page .frame {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 30px;
+    position: absolute;
+    top: 18px;
+    left: 145px;
+}
+
+.landing-page .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: -0.08px;
+    line-height: 23.2px;
+    white-space: nowrap;
+}
+
+
+.landing-page .link-2 {
+    display: flex;
+    width: 95px;
+    align-items: center;
+    gap: 4px;
+    position: relative;
+    height: 23px;
+}
+    
+.landing-page .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1.5px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: -0.08px;
+    line-height: 23.2px;
+    white-space: nowrap;
+}
+    
+.landing-page .group {
+    position: relative;
+    width: 79px;
+    height: 24px;
+}
+    
+.landing-page .icon {
+    position: absolute;
+    top: 0;
+    left: 55px;
+    width: 22px;
+    height: 24px;
+}
+    
+.landing-page .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 77px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: -0.08px;
+    line-height: 23.2px;
+}
+    
+.landing-page .container-2 {
+    display: flex;
+    flex-direction: column;
+    width: 76px;
+    height: 23px;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+}
+    
+.landing-page .group-wrapper {
+    width: 76px;
+    position: relative;
+    height: 23px;
+}
+    
+.landing-page .group-2 {
+    position: relative;
+    top: -3px;
+    width: 120px;
+    height: 26px;
+}
+    
+.landing-page .text-wrapper-5 {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    width: 112px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: -0.08px;
+    line-height: 23.2px;
+}
+    
+.landing-page .img {
+    align-items: center;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: -0.07px;
+    line-height: 21.8px;
+    white-space: nowrap;
+}
+
+.landing-page .background {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 32px);
+    height: 879px;
+    align-items: center;
+    gap: 96px;
+    padding: 120px 64px 1px;
+    position: absolute;
+    top: 228px;
+    left: 1px;
+    overflow: hidden;
+    background:
+    url(https://c.animaapp.com/mokddl1nvT4YuQ/img/background.png) 50% 50% /
+    cover;
+}
+
+
+.landing-page .text-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.landing-page .p {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 56px;
+    text-align: center;
+    letter-spacing: -1.4px;
+    line-height: 61.6px;
+}
+
+.landing-page .text-wrapper-6 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+    font-weight: 200;
+    color: #ffffff;
+    font-size: 15px;
+    letter-spacing: -0.07px;
+    line-height: 21.8px;
+    white-space: nowrap;
+}
+
+.landing-page .buttons {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 16px 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+    
+.landing-page .secondary-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px 16px;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 12px;
+    border: 2px solid;
+    border-color: #ffffff26;
+}
+    
+.landing-page .text-wrapper-7 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin-top: -2px;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: -0.09px;
+    line-height: 26.1px;
+    white-space: nowrap;
+}
+    
+.landing-page .device-frame {
+        position: relative;
+        width: 732px;
+        height: 476px;
+        margin-bottom: -1px;
+        border-radius: 24px;
+        object-fit: cover;
+}
+    
+.landing-page .feature-gallery {
+        display: flex;
+        flex-direction: column;
+        width: calc(100% - 32px);
+        height: 1186px;
+        align-items: flex-start;
+        gap: 24px;
+        padding: 64px 64px 1px;
+        position: absolute;
+        top: 1107px;
+        left: 1px;
+        background-color: #ffffff;
+}
+
+.landing-page .image-and-text {
+        font-weight: 700;
+        color: #000000;
+        font-size: 32px;
+        letter-spacing: -0.64px;
+        line-height: 38.4px;
+}
+
+.landing-page .content {
+    flex-direction: column;
+    gap: 32px;
+    padding: 0px 0px 64px;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.landing-page .text-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.landing-page .text-wrapper-8 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: -0.64px;
+    line-height: 38.4px;
+}
+
+.landing-page .text-wrapper-9 {
+        position: relative;
+        display: flex;
+        align-items: center;
+        align-self: stretch;
+        font-family: "Inter", Helvetica;
+        font-weight: 500;
+        color: #0000008c;
+        font-size: 18px;
+        letter-spacing: -0.09px;
+        line-height: 26.1px;
+}
+    
+.landing-page .button {
+        all: unset;
+        box-sizing: border-box;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        padding: 12px 24px;
+        position: relative;
+        flex: 0 0 auto;
+        background-color: #000000;
+        border-radius: 12px;
+}
+    
+.landing-page .text-wrapper-10 {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: fit-content;
+        margin-top: -2px;
+        font-family: "Inter", Helvetica;
+        font-weight: 500;
+        color: #ffffff;
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: -0.09px;
+        line-height: 26.1px;
+        white-space: nowrap;
+}
+    
+.landing-page .image-gallery {
+        position: relative;
+        align-self: stretch;
+        width: 100%;
+        flex: 0 0 auto;
+}
+    
+.landing-page .feature-cards {
+        display: flex;
+        width: calc(100% - 31px);
+        height: 783px;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 32px;
+        padding: 120px 64px;
+        position: absolute;
+        top: 2234px;
+        left: 1px;
+        background:
+        url(https://c.animaapp.com/mokddl1nvT4YuQ/img/feature-cards-1.png) 50% 50% /
+        cover;
+    }
+
+.landing-page .card {
+    display: flex;
+    flex-direction: column;
+    width: 362.67px;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid;
+    border-color: #0000001a;
+    box-shadow:
+    0px 6px 12px #00000008,
+    0px 4px 8px #00000005;
+}
+
+.landing-page .image {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+}
+
+.landing-page .body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 32px;
+    padding: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.landing-page .div-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.landing-page .text-wrapper-11 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: -0.48px;
+    line-height: 34.8px;
+}
+
+.landing-page .text-wrapper-12 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #0000008c;
+    font-size: 18px;
+    letter-spacing: -0.09px;
+    line-height: 25.2px;
+}
+
+.landing-page .text-wrapper-13 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 18px;
+    letter-spacing: -0.09px;
+    line-height: 26.1px;
+    text-decoration: underline;
+}
+
+.landing-page .image-2 {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 240px;
+}
+
+.landing-page .content-wrapper {
+    display: flex;
+    width: calc(100% - 31px);
+    height: 332px;
+    align-items: center;
+    justify-content: center;
+    gap: 96px;
+    padding: 0px 64px 96px;
+    position: absolute;
+    top: 5780px;
+    left: 31px;
+    background:
+    url(https://c.animaapp.com/mokddl1nvT4YuQ/img/image.png) 50% 50% / cover;
+}
+
+.landing-page .content-2 {
+    justify-content: space-between;
+    padding: 80px 0px;
+    flex: 1;
+    flex-grow: 1;
+    margin-top: -43.5px;
+    margin-bottom: -43.5px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-color: #ffffff26;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.landing-page .text-wrapper-14 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: -0.48px;
+    line-height: 28.8px;
+    white-space: nowrap;
+}
+
+.landing-page .nav {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 32px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.landing-page .column {
+    display: flex;
+    flex-direction: column;
+    width: 90px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+}
+
+
+.landing-page .header {
+    display: flex;
+    align-items: flex-start;
+    padding: 0px 0px 16px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.landing-page .text-wrapper-15 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: -0.08px;
+    line-height: 23.2px;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-16 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff99;
+    font-size: 16px;
+    letter-spacing: -0.08px;
+    line-height: 23.2px;
+}
+
+.landing-page .text-wrapper-17 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #ffffff99;
+    font-size: 16px;
+    letter-spacing: -0.08px;
+    line-height: 22.4px;
+}
+
+.landing-page .column-2 {
+    display: flex;
+    flex-direction: column;
+    width: 130px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+}
+
+.landing-page .element-facts {
+    display: flex;
+    flex-direction: column;
+    width: 1430px;
+    height: 2000px;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 3047px;
+    left: 0;
+}
+
+.landing-page .row {
+    height: 440px;
+    padding: 10px 64px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+}
+
+.landing-page .content-3 {
+    flex-direction: column;
+    height: 432px;
+    justify-content: center;
+    gap: 48px;
+    flex: 1;
+    flex-grow: 1;
+    margin-top: -11px;
+    margin-bottom: -11px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.landing-page .text-4 {
+    display: flex;
+    flex-direction: column;
+    height: 223px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+}
+
+.landing-page .text-wrapper-18 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    margin-top: -45.5px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: -0.72px;
+    line-height: 43.2px;
+}
+
+.landing-page .the {
+        position: relative;
+        align-self: stretch;
+        margin-bottom: -43.5px;
+        font-family: "Inter", Helvetica;
+        font-weight: 700;
+        color: #0000008c;
+        font-size: 24px;
+        letter-spacing: -0.12px;
+        line-height: 34.8px;
+}
+        
+.landing-page .image-3 {
+        position: relative;
+        flex: 1;
+        flex-grow: 1;
+        height: 432px;
+        margin-top: -11px;
+        margin-bottom: -11px;
+        border-radius: 16px;
+        object-fit: cover;
+}
+        
+.landing-page .row-2 {
+        padding: 1px 64px 40px;
+        flex: 0 0 auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 64px;
+        position: relative;
+        align-self: stretch;
+        width: 100%;
+}
+        
+.landing-page .image-4 {
+        position: relative;
+        flex: 1;
+        flex-grow: 1;
+        height: 432px;
+        border-radius: 16px;
+        object-fit: cover;
+}
+        
+.landing-page .content-4 {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: center;
+        gap: 48px;
+        position: relative;
+        flex: 1;
+        align-self: stretch;
+        flex-grow: 1;
+}
+        
+.landing-page .text-5 {
+        display: flex;
+        flex-direction: column;
+        height: 355px;
+        align-items: flex-start;
+        gap: 24px;
+        position: relative;
+        align-self: stretch;
+        width: 100%;
+}
+    
+.landing-page .text-wrapper-19 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: -0.72px;
+    line-height: 43.2px;
+}
+
+.landing-page .text-wrapper-20 {
+    position: relative;
+    align-self: stretch;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #0000008c;
+    font-size: 24px;
+    letter-spacing: -0.12px;
+    line-height: 34.8px;
+}
+
+.landing-page .row-3 {
+    height: 421px;
+    padding: 1px 64px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+}
+
+.landing-page .content-5 {
+    flex-direction: column;
+    height: 372px;
+    justify-content: center;
+    gap: 48px;
+    flex: 1;
+    flex-grow: 1;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+}
+
+.landing-page .text-wrapper-21 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    align-self: stretch;
+    margin-top: -4.5px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: -0.72px;
+    line-height: 43.2px;
+}
+
+.landing-page .the-rubella-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    margin-bottom: -3.5px;
+}
+
+.landing-page .the-rubella {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 400;
+    color: #0000008c;
+    font-size: 24px;
+    letter-spacing: -0.12px;
+    line-height: 34.8px;
+}
+
+.landing-page .span {
+    font-weight: 700;
+    letter-spacing: -0.03px;
+}
+
+.landing-page .text-wrapper-22 {
+    font-weight: 500;
+    letter-spacing: -0.03px;
+}
+
+.landing-page .image-5 {
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    height: 436px;
+    margin-top: -28px;
+    margin-bottom: -28px;
+    border-radius: 16px;
+}
+
+.landing-page .row-4 {
+    padding: 1px 64px 10px;
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+}
+
+.landing-page .text-6 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+}
+
+.landing-page .news-carousel {
+    display: flex;
+    flex-direction: column;
+    width: 1383px;
+    align-items: center;
+    gap: 48px;
+    padding: 80px 64px 120px;
+    position: absolute;
+    top: 5076px;
+    left: -2px;
+}
+
+
+.landing-page .container-3 {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    height: 92.49px;
+    align-items: center;
+    gap: 16px;
+    position: relative;
+}
+
+.landing-page .heading {
+    position: relative;
+    flex: 1;
+    width: 300.3px;
+    flex-grow: 1;
+}
+
+.landing-page .text-wrapper-23 {
+    position: absolute;
+    top: 1px;
+    left: -1px;
+    font-family: "Inter", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 42px;
+    text-align: center;
+    letter-spacing: -0.84px;
+    line-height: 50.4px;
+    white-space: nowrap;
+}
+
+.landing-page .paragraph {
+    position: relative;
+    width: 703.29px;
+    height: 26.09px;
+}
+
+.landing-page .stay-informed-with {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter", Helvetica;
+    font-weight: 500;
+    color: #0000008c;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: -0.09px;
+    line-height: 26.1px;
+    white-space: nowrap;
+}
+
+.landing-page .inner-slider-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    height: 320px;
+    align-items: flex-start;
+    padding: 0px 60px;
+    position: relative;
+}
+
+.landing-page .inner-slider {
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    height: 320px;
+}
+
+.landing-page .button-2 {
+    position: absolute;
+    top: 134px;
+    left: -72px;
+    width: 72px;
+    height: 72px;
+}
+
+.landing-page .container-4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1080px;
+    height: 320px;
+    display: flex;
+    gap: 32px;
+    overflow: hidden;
+}
+
+.landing-page .article {
+    width: 328px;
+    height: 320px;
+    margin-left: -704px;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow:
+    0px 2px 4px -2px #0000001a,
+    0px 4px 6px -1px #0000001a;
+}
+
+.landing-page .news-carousel-2 {
+    display: flex;
+    margin-left: 32px;
+    width: 264px;
+    height: 28px;
+    position: relative;
+    margin-top: 32px;
+    align-items: center;
+    gap: 12.23px;
+    padding: 0px 0px 0px 0.04px;
+}
+        
+.landing-page .text-7 {
+        position: relative;
+        width: 113px;
+        height: 28px;
+        background-color: #ffedd4;
+        border-radius: 16777200px;
+}
+        
+.landing-page .text-wrapper-24 {
+        position: absolute;
+        top: 4px;
+        left: 12px;
+        font-family: "Inter", Helvetica;
+        font-weight: 500;
+        color: #ca3500;
+        font-size: 14px;
+        letter-spacing: -0.15px;
+        line-height: 20px;
+        white-space: nowrap;
+        }
+        
+.landing-page .text-8 {
+        position: relative;
+        width: 100px;
+        height: 20px;
+        }
+        
+.landing-page .text-wrapper-25 {
+        position: absolute;
+        top: 1px;
+        left: 0;
+        font-family: "Inter", Helvetica;
+        font-weight: 400;
+        color: #6a7282;
+        font-size: 14px;
+        letter-spacing: -0.15px;
+        line-height: 20px;
+        white-space: nowrap;
+}
+    
+.landing-page .news-carousel-3 {
+            margin-left: 32px;
+            width: 264px;
+            margin-top: 16px;
+            display: flex;
+}
+        
+.landing-page .text-wrapper-26 {
+            margin-top: -0.2px;
+            width: 264px;
+            height: 78px;
+            font-family: "Inter", Helvetica;
+            font-weight: 600;
+            color: #000000;
+            font-size: 20px;
+            letter-spacing: -0.4px;
+            line-height: 26px;
+}
+        
+.landing-page .news-carousel-4 {
+            margin-left: 32px;
+            width: 264px;
+            margin-top: 11.8px;
+            display: flex;
+}
+    
+
