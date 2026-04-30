@@ -1,6 +1,5 @@
 from flask import Flask
+from app.routes import bp
 
 app = Flask(__name__)
-
-from app.routes import bp
 app.register_blueprint(bp)
