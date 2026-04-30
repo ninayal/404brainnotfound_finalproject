@@ -86,6 +86,13 @@ def page2():
 def page3():
     return render_template("page3.html")
 
+@bp.route("/page4")
+def page4():
+    return render_template("page4.html")
+
+@bp.route("/page5")
+def page5():
+    return render_template("page5.html")
 
 @bp.route("/check-db")
 def check_db():
